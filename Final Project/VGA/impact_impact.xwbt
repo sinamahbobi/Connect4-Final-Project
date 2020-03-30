@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Final Project\VGA\impact.xsl
+OUTFILE=C:\Final Project\VGA\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=C:\Final Project\VGA
+LICENSE=iMPACT
+USER_INFO=iMPACT
